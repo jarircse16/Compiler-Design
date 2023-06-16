@@ -1,0 +1,14 @@
+VSCODE Terminal Commands:
+
+inside makefile....
+
+gcc cfile.c -o cfile
+
+to run:
+
+./makefile
+./cfile
+
+make makefile main
+make makefile main2
+make makefile main3
